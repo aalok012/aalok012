@@ -1,3 +1,5 @@
+[![GitHub activity: total commits, pull requests, and repositories contributed to](https://github-stats-extended.vercel.app/api?username=aalok012&show_icons=true&hide_rank=true&hide=stars,issues&include_all_commits=true&custom_title=GitHub%20Activity&theme=transparent)](https://github.com/aalok012?tab=overview)
+
 # Alok Kumar Thakur
 
 **Software Verification & Testing Research · Software Engineering**

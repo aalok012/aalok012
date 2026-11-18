@@ -1,14 +1,7 @@
-Computer Science undergraduate at Texas State University working on **software verification and testing research**. I explore how formal methods and automated testing can help evaluate AI-generated software, and I build backend services and full-stack applications.
+### Building software. Examining the evidence.
 
-**Interests:** Software verification, automated testing, AI-assisted software engineering | **Stack:** Python, TypeScript, React, Node.js, and Dafny.
+I'm Alok, a Computer Science undergraduate at Texas State University researching **software verification and testing**. My work asks a practical question: when AI generates software, what evidence do we have that it behaves as intended?
 
-My work includes [Agentic Cleanroom](https://github.com/aalok012/Agentic-Cleanroom), an experimental pipeline for generating and evaluating software from requirements, and [Balanzo](https://github.com/aalok012/Balanzo), a personal expense tracker.
+[**Agentic Cleanroom**](https://github.com/aalok012/Agentic-Cleanroom) is where I explore that question through formal methods and automated tests. [**Balanzo**](https://github.com/aalok012/Balanzo) is where I put my full-stack engineering skills to work.
 
-Interested in my work? Connect on [LinkedIn](https://www.linkedin.com/in/alokthakur012/) or reach out by [email](mailto:mraalokthakur01@gmail.com).
-
-```python
-while curious:
-    build()
-    test()
-    learn()
-```
+[Connect on LinkedIn](https://www.linkedin.com/in/alokthakur012/) · [Let's talk research](mailto:mraalokthakur01@gmail.com)
